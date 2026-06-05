@@ -2,7 +2,7 @@
   "name": "cicd-mgti2026t2",
   "version": "1.0.0",
   "description": "",
-  "main": "logic.js",
+  "main": "index.js",
   "scripts": { "test": "jest" },
   "repository": {
     "type": "git",
