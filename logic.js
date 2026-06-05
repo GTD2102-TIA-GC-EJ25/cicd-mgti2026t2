@@ -1,4 +1,4 @@
 function getNextColor(currentColor) {
-    return currentColor === 'blue' ? 'red' : 'blue';
+    return currentColor === 'blue' ? 'yellow' : 'blue';
 }
 module.exports = getNextColor;
